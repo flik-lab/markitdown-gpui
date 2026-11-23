@@ -41,3 +41,7 @@ Set `MARKITDOWN_PYTHON` to use a specific interpreter (for example `C:\venv\Scri
 $env:MARKITDOWN_TEST_FILE = "C:\path\to\file-with-images.docx"
 cargo test -- --ignored
 ```
+
+## License
+
+[MIT](LICENSE)
