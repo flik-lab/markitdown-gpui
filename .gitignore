@@ -1,0 +1,25 @@
+/target
+
+# Never commit documents or conversion output (they may contain private data).
+*.docx
+*.docm
+*.doc
+*.pptx
+*.pptm
+*.ppt
+*.xlsx
+*.xlsm
+*.xls
+*.pdf
+*.epub
+*_images/
+*.converted.md
+
+# Local secrets / editor files
+.env
+.env.*
+*.pem
+*.key
+.vscode/
+.idea/
+__pycache__/
