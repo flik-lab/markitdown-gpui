@@ -2,6 +2,8 @@
 name = "markitdown-gpui"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+repository = "https://github.com/flik-lab/markitdown-gpui"
 
 [dependencies]
 anyhow = "1.0.104"
